@@ -38,4 +38,5 @@ OPENAI_API_KEY=your-api-key
 Run the App: 
 uv run streamlit run main.py
 
+or try Command: uv run python -m streamlit run main.py
 
